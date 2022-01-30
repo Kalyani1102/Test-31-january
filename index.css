@@ -1,0 +1,26 @@
+table,
+tr,
+td {
+  border: 1px solid whitesmoke;
+}
+td {
+  padding: 5px;
+}
+table {
+  text-align: center;
+  margin: auto;
+  background-color: rgb(241, 127, 127);
+  color: cornsilk;
+}
+body {
+  background-color: rgb(141, 141, 241);
+}
+#con12 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+#search,
+#btn {
+  padding: 10px;
+}
